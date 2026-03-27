@@ -1,0 +1,596 @@
+Strategy Tester Report
+UniversalMACrossEA_2026
+ICMarketsSC-Demo04 (Build 1470)
+Símbolo EURUSD (Euro vs US Dollar)
+Período 1 hora (H1) 2023.03.01 00:00 - 2026.03.04 23:00 (2023.03.01 - 2026.03.05)
+Modelo Cada tick (el método más preciso basado en todos los períodos menores disponibles)
+Parámetros
+Expert_Name="Universal MA Cross 2026"; StopLoss=0; TakeProfit=100; TrailingStop=0; Indicator_Setting="---------- MA Settings"; FastMAPeriod=10; FastMAType=1;
+FastMAPrice=0; SlowMAPeriod=20; SlowMAType=1; SlowMAPrice=0; Filters_2026="---------- 2026 Safety Filters"; UseSpreadFilter=true; MaxSpread=3;
+UseVolatilityFilter=true; MinATR=0.0001; Exit_Setting="---------- Logic Settings"; ConfirmedOnEntry=true; StopAndReverse=false; PureSAR=false; Order_Setting="-----
+----- Order Setting"; Slippage=3; MagicNumber=12345; MM_Parameters="---------- Money Management"; Lots=0.1; MM=false; Risk=2;
+Barras en el
+historial
+19680 Ticks modelados 40717514 Calidad del modelado 90.00%
+Errores de
+desalineación de
+gráficos
+0
+Depósito inicial 200.00 Spread 2
+Beneficio neto
+total
+-194.57 Beneficio bruto 207.91 Pérdida bruta -402.47
+Factor de
+beneficio
+0.52 Beneficio esperado -8.11
+Drawdown
+absoluto
+194.57 Drawdown máximo 409.14 (98.69%) Drawdown relativo 98.69% (409.14)
+Total de
+transacciones
+24 Posiciones cortas (% ganadoras) 12 (100.00%) Posiciones largas (% ganadoras) 12 (91.67%)
+Transacciones rentables (% del total) 23 (95.83%) Transacciones no rentables (% del total) 1 (4.17%)
+Mayor transacción rentable 9.81 transacción no rentable -402.47
+Media transacción rentable 9.04 transacción no rentable -402.47
+Número máximo ganancias consecutivas (beneficio en dinero) 23 (207.91) pérdidas consecutivas (pérdidas en dinero) 1 (-402.47)
+Máx. beneficio consecutivo (número de ganancias) 207.91 (23) pérdidas consecutivas (número de pérdidas) -402.47 (1)
+
+------------------------------------------------------------------------------------------------------------------------
+Strategy Tester Report
+UniversalMACrossEA_2026
+ICMarketsSC-Demo04 (Build 1470)
+Símbolo EURUSD (Euro vs US Dollar)
+Período 15 minutos (M5) 2023.03.01 00:00 - 2026.03.04 23:45 (2023.03.01 - 2026.03.05)
+Modelo Cada tick (el método más preciso basado en todos los períodos menores disponibles)
+Parámetros
+Expert_Name="Universal MA Cross 2026"; StopLoss=0; TakeProfit=100; TrailingStop=0; Indicator_Setting="---------- MA Settings"; FastMAPeriod=10; FastMAType=1;
+FastMAPrice=0; SlowMAPeriod=20; SlowMAType=1; SlowMAPrice=0; Filters_2026="---------- 2026 Safety Filters"; UseSpreadFilter=true; MaxSpread=3;
+UseVolatilityFilter=true; MinATR=0.0001; Exit_Setting="---------- Logic Settings"; ConfirmedOnEntry=true; StopAndReverse=false; PureSAR=false; Order_Setting="----
+------ Order Setting"; Slippage=3; MagicNumber=12345; MM_Parameters="---------- Money Management"; Lots=0.1; MM=false; Risk=2;
+Barras en el
+historial
+75678 Ticks modelados 40745610 Calidad del modelado 90.00%
+Errores de
+desalineación de
+gráficos
+0
+Depósito inicial 200.00 Spread 2
+Beneficio neto
+total
+1676.44 Beneficio bruto 1989.94 Pérdida bruta -313.50
+Factor de
+beneficio
+6.35 Beneficio esperado 8.06
+Drawdown
+absoluto
+173.49 Drawdown máximo 681.01 (32.44%) Drawdown relativo 89.29% (220.88)
+Total de
+transacciones
+208 Posiciones cortas (% ganadoras) 103 (99.03%) Posiciones largas (% ganadoras) 105 (97.14%)
+Transacciones rentables (% del total) 204 (98.08%) Transacciones no rentables (% del total) 4 (1.92%)
+Mayor transacción rentable 58.89 transacción no rentable -217.61
+Media transacción rentable 9.75 transacción no rentable -78.37
+Número máximo ganancias consecutivas (beneficio en dinero) 75 (806.11) pérdidas consecutivas (pérdidas en dinero) 1 (-217.61)
+Máx. beneficio consecutivo (número de ganancias) 806.11 (75) pérdidas consecutivas (número de pérdidas) -217.61 (1)
+Promedio ganancias consecutivas 51 pérdidas consecutivas 1
+
+------------------------------------------------------------------------------------------------------------------------
+Strategy Tester Report
+UniversalMACrossEA_V8_1_2026
+ICMarketsSC-Demo04 (Build 1470)
+Símbolo EURUSD (Euro vs US Dollar)
+Período 1 hora (H1) 2023.03.01 00:00 - 2026.03.04 23:00 (2023.03.01 - 2026.03.05)
+Modelo Cada tick (el método más preciso basado en todos los períodos menores disponibles)
+Parámetros
+Expert_Name="Universal MA Cross EA v8.1 (Restored)"; MagicNumber=1234; StopLoss=100; TakeProfit=200; Trailing_Setting="---------- Trailing Stop Setting";
+TrailingStopType=1; TrailingStop=40; Indicator_Setting="---------- MA Settings"; FastMAPeriod=5; FastMAType=1; FastMAPrice=0; FastMAshift=0; SlowMAPeriod=10;
+SlowMAType=1; SlowMAPrice=0; SlowMAshift=0; CrossDist_Setting="---------- Min Cross Distance"; MinCrossDistance=3; MaxLookUp=0; Exit_Setting="---------- Exit
+Settings"; StopAndReverse=true; PureSAR=false; ExitOnCross=false; ThirdMA_Setting="---------- Third MA Filter"; UseThirdMA=false; UseCounterTrend=false;
+ThirdMAPeriod=100; ThirdMAType=1; Pivot_Setting="---------- Pivot Filter"; Use_Pivot_Filter=true; Order_Setting="---------- Order Logic"; ConfirmedOnEntry=true;
+OneEntryPerBar=true; Slippage=5; MM_Parameters="---------- Money Management"; Lots=0.1; MM=false; Risk=2;
+Barras en el
+historial
+19680 Ticks modelados 40717514 Calidad del modelado 90.00%
+Errores de
+desalineación
+de gráficos
+0
+Depósito inicial 200.00 Spread 2
+Beneficio neto
+total
+1260.64 Beneficio bruto 3163.52 Pérdida bruta -1902.88
+Factor de
+beneficio
+1.66 Beneficio esperado 15.19
+Drawdown
+absoluto
+110.57 Drawdown máximo 683.43 (57.46%) Drawdown relativo 70.39% (273.91)
+Total de
+transacciones
+83 Posiciones cortas (% ganadoras) 42 (78.57%) Posiciones largas (% ganadoras) 41 (60.98%)
+Transacciones rentables (% del total) 58 (69.88%) Transacciones no rentables (% del total) 25 (30.12%)
+Mayor transacción rentable 201.60 transacción no rentable -105.72
+Media transacción rentable 54.54 transacción no rentable -76.12
+Número máximo ganancias consecutivas (beneficio en dinero) 8 (444.92) pérdidas consecutivas (pérdidas en dinero) 4 (-381.03)
+Máx. beneficio consecutivo (número de ganancias) 446.13 (6) pérdidas consecutivas (número de pérdidas) -381.03 (4)
+Promedio ganancias consecutivas 3 pérdidas consecutivas 1
+
+------------------------------------------------------------------------------------------------------------------------
+Strategy Tester Report
+UniversalMACrossEA_V8_1_2026
+ICMarketsSC-Demo04 (Build 1470)
+Símbolo EURUSD (Euro vs US Dollar)
+Período 1 hora (H1) 2023.03.01 00:00 - 2026.03.04 23:00 (2023.03.01 - 2026.03.05)
+Modelo Cada tick (el método más preciso basado en todos los períodos menores disponibles)
+Parámetros
+Expert_Name="Universal MA Cross EA v8.1 (Restored)"; MagicNumber=1234; StopLoss=100; TakeProfit=200; Trailing_Setting="---------- Trailing Stop Setting";
+TrailingStopType=1; TrailingStop=40; Indicator_Setting="---------- MA Settings"; FastMAPeriod=5; FastMAType=1; FastMAPrice=0; FastMAshift=0; SlowMAPeriod=10;
+SlowMAType=1; SlowMAPrice=0; SlowMAshift=0; CrossDist_Setting="---------- Min Cross Distance"; MinCrossDistance=3; MaxLookUp=0; Exit_Setting="---------- Exit
+Settings"; StopAndReverse=true; PureSAR=false; ExitOnCross=false; ThirdMA_Setting="---------- Third MA Filter"; UseThirdMA=false; UseCounterTrend=false;
+ThirdMAPeriod=100; ThirdMAType=1; Pivot_Setting="---------- Pivot Filter"; Use_Pivot_Filter=false; Order_Setting="---------- Order Logic"; ConfirmedOnEntry=true;
+OneEntryPerBar=true; Slippage=5; MM_Parameters="---------- Money Management"; Lots=0.1; MM=false; Risk=2;
+Barras en el
+historial
+19680 Ticks modelados 40717514 Calidad del modelado 90.00%
+Errores de
+desalineación
+de gráficos
+0
+Depósito inicial 200.00 Spread 2
+Beneficio neto
+total
+1260.64 Beneficio bruto 3163.52 Pérdida bruta -1902.88
+Factor de
+beneficio
+1.66 Beneficio esperado 15.19
+Drawdown
+absoluto
+110.57 Drawdown máximo 683.43 (57.46%) Drawdown relativo 70.39% (273.91)
+Total de
+transacciones
+83 Posiciones cortas (% ganadoras) 42 (78.57%) Posiciones largas (% ganadoras) 41 (60.98%)
+Transacciones rentables (% del total) 58 (69.88%) Transacciones no rentables (% del total) 25 (30.12%)
+Mayor transacción rentable 201.60 transacción no rentable -105.72
+Media transacción rentable 54.54 transacción no rentable -76.12
+Número máximo ganancias consecutivas (beneficio en dinero) 8 (444.92) pérdidas consecutivas (pérdidas en dinero) 4 (-381.03)
+Máx. beneficio consecutivo (número de ganancias) 446.13 (6) pérdidas consecutivas (número de pérdidas) -381.03 (4)
+Promedio ganancias consecutivas 3 pérdidas consecutivas 1
+
+------------------------------------------------------------------------------------------------------------------------
+Strategy Tester Report
+UniversalMACrossEA_V8_1_2026
+ICMarketsSC-Demo04 (Build 1470)
+Símbolo EURUSD (Euro vs US Dollar)
+Período 1 hora (H1) 2023.03.01 00:00 - 2026.03.04 23:00 (2023.03.01 - 2026.03.05)
+Modelo Cada tick (el método más preciso basado en todos los períodos menores disponibles)
+Parámetros
+Expert_Name="Universal MA Cross EA v8.1 (Restored)"; MagicNumber=1234; StopLoss=100; TakeProfit=200; Trailing_Setting="---------- Trailing Stop Setting";
+TrailingStopType=1; TrailingStop=40; Indicator_Setting="---------- MA Settings"; FastMAPeriod=5; FastMAType=1; FastMAPrice=0; FastMAshift=0; SlowMAPeriod=10;
+SlowMAType=1; SlowMAPrice=0; SlowMAshift=0; CrossDist_Setting="---------- Min Cross Distance"; MinCrossDistance=3; MaxLookUp=0; Exit_Setting="---------- Exit
+Settings"; StopAndReverse=true; PureSAR=false; ExitOnCross=false; ThirdMA_Setting="---------- Third MA Filter"; UseThirdMA=true; UseCounterTrend=false;
+ThirdMAPeriod=100; ThirdMAType=1; Pivot_Setting="---------- Pivot Filter"; Use_Pivot_Filter=true; Order_Setting="---------- Order Logic"; ConfirmedOnEntry=true;
+OneEntryPerBar=true; Slippage=5; MM_Parameters="---------- Money Management"; Lots=0.1; MM=false; Risk=2;
+Barras en el
+historial
+19680 Ticks modelados 40717514 Calidad del modelado 90.00%
+Errores de
+desalineación
+de gráficos
+0
+Depósito inicial 200.00 Spread 2
+Beneficio neto
+total
+301.35 Beneficio bruto 1221.56 Pérdida bruta -920.21
+Factor de
+beneficio
+1.33 Beneficio esperado 7.18
+Drawdown
+absoluto
+110.57 Drawdown máximo 510.98 (69.90%) Drawdown relativo 69.90% (510.98)
+Total de
+transacciones
+42 Posiciones cortas (% ganadoras) 21 (80.95%) Posiciones largas (% ganadoras) 21 (61.90%)
+Transacciones rentables (% del total) 30 (71.43%) Transacciones no rentables (% del total) 12 (28.57%)
+Mayor transacción rentable 197.63 transacción no rentable -105.72
+Media transacción rentable 40.72 transacción no rentable -76.68
+Número máximo ganancias consecutivas (beneficio en dinero) 8 (249.92) pérdidas consecutivas (pérdidas en dinero) 2 (-203.86)
+Máx. beneficio consecutivo (número de ganancias) 269.77 (6) pérdidas consecutivas (número de pérdidas) -203.86 (2)
+Promedio ganancias consecutivas 3 pérdidas consecutivas 1
+
+------------------------------------------------------------------------------------------------------------------------
+Strategy Tester Report
+UniversalMACrossEA_V8_1_2026
+ICMarketsSC-Demo04 (Build 1470)
+Símbolo EURUSD (Euro vs US Dollar)
+Período 1 hora (H1) 2023.03.01 00:00 - 2026.03.04 23:00 (2023.03.01 - 2026.03.05)
+Modelo Cada tick (el método más preciso basado en todos los períodos menores disponibles)
+Parámetros
+Expert_Name="Universal MA Cross EA v8.1 (Restored)"; MagicNumber=1234; StopLoss=100; TakeProfit=200; Trailing_Setting="---------- Trailing Stop Setting";
+TrailingStopType=1; TrailingStop=40; Indicator_Setting="---------- MA Settings"; FastMAPeriod=10; FastMAType=1; FastMAPrice=0; FastMAshift=0; SlowMAPeriod=80;
+SlowMAType=1; SlowMAPrice=0; SlowMAshift=0; CrossDist_Setting="---------- Min Cross Distance"; MinCrossDistance=0; MaxLookUp=0; Exit_Setting="---------- Exit
+Settings"; StopAndReverse=true; PureSAR=false; ExitOnCross=false; ThirdMA_Setting="---------- Third MA Filter"; UseThirdMA=false; UseCounterTrend=false;
+ThirdMAPeriod=100; ThirdMAType=1; Pivot_Setting="---------- Pivot Filter"; Use_Pivot_Filter=false; Order_Setting="---------- Order Logic"; ConfirmedOnEntry=true;
+OneEntryPerBar=true; Slippage=5; MM_Parameters="---------- Money Management"; Lots=0.1; MM=false; Risk=2;
+Barras en el
+historial
+19680 Ticks modelados 40717514 Calidad del modelado 90.00%
+Errores de
+desalineación
+de gráficos
+0
+Depósito inicial 200.00 Spread 2
+Beneficio neto
+total
+-194.61 Beneficio bruto 2254.63 Pérdida bruta -2449.23
+Factor de
+beneficio
+0.92 Beneficio esperado -1.51
+Drawdown
+absoluto
+194.61 Drawdown máximo 611.47 (99.13%) Drawdown relativo 99.13% (611.47)
+Total de
+transacciones
+129 Posiciones cortas (% ganadoras) 64 (39.06%) Posiciones largas (% ganadoras) 65 (33.85%)
+Transacciones rentables (% del total) 47 (36.43%) Transacciones no rentables (% del total) 82 (63.57%)
+Mayor transacción rentable 196.79 transacción no rentable -88.94
+Media transacción rentable 47.97 transacción no rentable -29.87
+Número máximo ganancias consecutivas (beneficio en dinero) 5 (157.59) pérdidas consecutivas (pérdidas en dinero) 11 (-467.05)
+Máx. beneficio consecutivo (número de ganancias) 396.23 (4) pérdidas consecutivas (número de pérdidas) -467.05 (11)
+Promedio ganancias consecutivas 2 pérdidas consecutivas 3
+
+------------------------------------------------------------------------------------------------------------------------
+Strategy Tester Report
+UniversalMACrossEA_V8_1_2026
+ICMarketsSC-Demo04 (Build 1470)
+Símbolo EURUSD (Euro vs US Dollar)
+Período 15 minutos (M5) 2023.03.01 00:00 - 2026.03.04 23:45 (2023.03.01 - 2026.03.05)
+Modelo Cada tick (el método más preciso basado en todos los períodos menores disponibles)
+Parámetros
+Expert_Name="Universal MA Cross EA v8.1 (Restored)"; MagicNumber=1234; StopLoss=100; TakeProfit=200; Trailing_Setting="---------- Trailing Stop Setting";
+TrailingStopType=1; TrailingStop=40; Indicator_Setting="---------- MA Settings"; FastMAPeriod=10; FastMAType=1; FastMAPrice=0; FastMAshift=0; SlowMAPeriod=80;
+SlowMAType=1; SlowMAPrice=0; SlowMAshift=0; CrossDist_Setting="---------- Min Cross Distance"; MinCrossDistance=0; MaxLookUp=0; Exit_Setting="---------- Exit
+Settings"; StopAndReverse=true; PureSAR=false; ExitOnCross=false; ThirdMA_Setting="---------- Third MA Filter"; UseThirdMA=false; UseCounterTrend=false;
+ThirdMAPeriod=100; ThirdMAType=1; Pivot_Setting="---------- Pivot Filter"; Use_Pivot_Filter=false; Order_Setting="---------- Order Logic"; ConfirmedOnEntry=true;
+OneEntryPerBar=true; Slippage=5; MM_Parameters="---------- Money Management"; Lots=0.1; MM=false; Risk=2;
+Barras en el
+historial
+75678 Ticks modelados 40745610 Calidad del modelado 90.00%
+Errores de
+desalineación
+de gráficos
+0
+Depósito inicial 200.00 Spread 2
+Beneficio neto
+total
+-194.68 Beneficio bruto 3169.52 Pérdida bruta -3364.21
+Factor de
+beneficio
+0.94 Beneficio esperado -0.60
+Drawdown
+absoluto
+194.68 Drawdown máximo 973.76 (99.46%) Drawdown relativo 99.46% (973.76)
+Total de
+transacciones
+323 Posiciones cortas (% ganadoras) 161 (29.81%) Posiciones largas (% ganadoras) 162 (24.07%)
+Transacciones rentables (% del total) 87 (26.93%) Transacciones no rentables (% del total) 236 (73.07%)
+Mayor transacción rentable 197.63 transacción no rentable -58.20
+Media transacción rentable 36.43 transacción no rentable -14.26
+Número máximo ganancias consecutivas (beneficio en dinero) 5 (251.95) pérdidas consecutivas (pérdidas en dinero) 10 (-155.17)
+Máx. beneficio consecutivo (número de ganancias) 339.91 (3) pérdidas consecutivas (número de pérdidas) -155.17 (10)
+Promedio ganancias consecutivas 1 pérdidas consecutivas 4
+
+------------------------------------------------------------------------------------------------------------------------
+Strategy Tester Report
+UniversalMACrossEA_V8_1_2026
+ICMarketsSC-Demo04 (Build 1470)
+Símbolo EURUSD (Euro vs US Dollar)
+Período 15 minutos (M5) 2023.03.01 00:00 - 2026.03.04 23:45 (2023.03.01 - 2026.03.05)
+Modelo Cada tick (el método más preciso basado en todos los períodos menores disponibles)
+Parámetros
+Expert_Name="Universal MA Cross EA v8.1 (Restored)"; MagicNumber=1234; StopLoss=100; TakeProfit=200; Trailing_Setting="---------- Trailing Stop Setting";
+TrailingStopType=1; TrailingStop=40; Indicator_Setting="---------- MA Settings"; FastMAPeriod=5; FastMAType=1; FastMAPrice=0; FastMAshift=0; SlowMAPeriod=10;
+SlowMAType=1; SlowMAPrice=0; SlowMAshift=0; CrossDist_Setting="---------- Min Cross Distance"; MinCrossDistance=3; MaxLookUp=0; Exit_Setting="---------- Exit
+Settings"; StopAndReverse=true; PureSAR=false; ExitOnCross=false; ThirdMA_Setting="---------- Third MA Filter"; UseThirdMA=true; UseCounterTrend=false;
+ThirdMAPeriod=100; ThirdMAType=1; Pivot_Setting="---------- Pivot Filter"; Use_Pivot_Filter=true; Order_Setting="---------- Order Logic"; ConfirmedOnEntry=true;
+OneEntryPerBar=true; Slippage=5; MM_Parameters="---------- Money Management"; Lots=0.1; MM=false; Risk=2;
+Barras en el
+historial
+75678 Ticks modelados 40745610 Calidad del modelado 90.00%
+Errores de
+desalineación
+de gráficos
+0
+Depósito inicial 200.00 Spread 2
+Beneficio neto
+total
+386.80 Beneficio bruto 1307.48 Pérdida bruta -920.69
+Factor de
+beneficio
+1.42 Beneficio esperado 10.18
+Drawdown
+absoluto
+135.48 Drawdown máximo 468.30 (73.61%) Drawdown relativo 76.09% (205.28)
+Total de
+transacciones
+38 Posiciones cortas (% ganadoras) 14 (71.43%) Posiciones largas (% ganadoras) 24 (75.00%)
+Transacciones rentables (% del total) 28 (73.68%) Transacciones no rentables (% del total) 10 (26.32%)
+Mayor transacción rentable 139.12 transacción no rentable -107.39
+Media transacción rentable 46.70 transacción no rentable -92.07
+Número máximo ganancias consecutivas (beneficio en dinero) 8 (458.93) pérdidas consecutivas (pérdidas en dinero) 4 (-407.12)
+Máx. beneficio consecutivo (número de ganancias) 458.93 (8) pérdidas consecutivas (número de pérdidas) -407.12 (4)
+Promedio ganancias consecutivas 4 pérdidas consecutivas 1
+
+------------------------------------------------------------------------------------------------------------------------
+Strategy Tester Report
+UniversalMACrossEA_V8_1_2026
+ICMarketsSC-Demo04 (Build 1470)
+Símbolo EURUSD (Euro vs US Dollar)
+Período 15 minutos (M5) 2023.03.01 00:00 - 2026.03.04 23:45 (2023.03.01 - 2026.03.05)
+Modelo Cada tick (el método más preciso basado en todos los períodos menores disponibles)
+Parámetros
+Expert_Name="Universal MA Cross EA v8.1 (Restored)"; MagicNumber=1234; StopLoss=100; TakeProfit=200; Trailing_Setting="---------- Trailing Stop Setting";
+TrailingStopType=1; TrailingStop=40; Indicator_Setting="---------- MA Settings"; FastMAPeriod=12; FastMAType=1; FastMAPrice=0; FastMAshift=0; SlowMAPeriod=144;
+SlowMAType=1; SlowMAPrice=0; SlowMAshift=0; CrossDist_Setting="---------- Min Cross Distance"; MinCrossDistance=5; MaxLookUp=0; Exit_Setting="---------- Exit
+Settings"; StopAndReverse=true; PureSAR=false; ExitOnCross=false; ThirdMA_Setting="---------- Third MA Filter"; UseThirdMA=false; UseCounterTrend=false;
+ThirdMAPeriod=100; ThirdMAType=1; Pivot_Setting="---------- Pivot Filter"; Use_Pivot_Filter=false; Order_Setting="---------- Order Logic"; ConfirmedOnEntry=true;
+OneEntryPerBar=true; Slippage=5; MM_Parameters="---------- Money Management"; Lots=0.1; MM=false; Risk=2;
+Barras en el
+historial
+75678 Ticks modelados 40745610 Calidad del modelado 90.00%
+Errores de
+desalineación
+de gráficos
+0
+Depósito inicial 200.00 Spread 2
+Beneficio neto
+total
+-2.42 Beneficio bruto 203.49 Pérdida bruta -205.91
+Factor de
+beneficio
+0.99 Beneficio esperado -0.48
+Drawdown
+absoluto
+108.41 Drawdown máximo 287.54 (75.84%) Drawdown relativo 75.84% (287.54)
+Total de
+transacciones
+5 Posiciones cortas (% ganadoras) 2 (50.00%) Posiciones largas (% ganadoras) 3 (66.67%)
+Transacciones rentables (% del total) 3 (60.00%) Transacciones no rentables (% del total) 2 (40.00%)
+Mayor transacción rentable 136.23 transacción no rentable -105.72
+Media transacción rentable 67.83 transacción no rentable -102.95
+Número máximo ganancias consecutivas (beneficio en dinero) 2 (67.25) pérdidas consecutivas (pérdidas en dinero) 2 (-205.91)
+Máx. beneficio consecutivo (número de ganancias) 136.23 (1) pérdidas consecutivas (número de pérdidas) -205.91 (2)
+Promedio ganancias consecutivas 2 pérdidas consecutivas 2
+
+------------------------------------------------------------------------------------------------------------------------
+Strategy Tester Report
+UniversalMACrossEA_V8_1_2026
+ICMarketsSC-Demo04 (Build 1470)
+Símbolo EURUSD (Euro vs US Dollar)
+Período 15 minutos (M5) 2023.03.01 00:00 - 2026.03.04 23:45 (2023.03.01 - 2026.03.05)
+Modelo Cada tick (el método más preciso basado en todos los períodos menores disponibles)
+Parámetros
+Expert_Name="Universal MA Cross EA v8.1 (Restored)"; MagicNumber=1234; StopLoss=100; TakeProfit=200; Trailing_Setting="---------- Trailing Stop Setting";
+TrailingStopType=1; TrailingStop=40; Indicator_Setting="---------- MA Settings"; FastMAPeriod=12; FastMAType=1; FastMAPrice=0; FastMAshift=0; SlowMAPeriod=144;
+SlowMAType=1; SlowMAPrice=0; SlowMAshift=0; CrossDist_Setting="---------- Min Cross Distance"; MinCrossDistance=5; MaxLookUp=0; Exit_Setting="---------- Exit
+Settings"; StopAndReverse=true; PureSAR=false; ExitOnCross=false; ThirdMA_Setting="---------- Third MA Filter"; UseThirdMA=false; UseCounterTrend=false;
+ThirdMAPeriod=100; ThirdMAType=1; Pivot_Setting="---------- Pivot Filter"; Use_Pivot_Filter=true; Order_Setting="---------- Order Logic"; ConfirmedOnEntry=true;
+OneEntryPerBar=true; Slippage=5; MM_Parameters="---------- Money Management"; Lots=0.1; MM=false; Risk=2;
+Barras en el
+historial
+75678 Ticks modelados 40745610 Calidad del modelado 90.00%
+Errores de
+desalineación
+de gráficos
+0
+Depósito inicial 200.00 Spread 2
+Beneficio neto
+total
+-2.42 Beneficio bruto 203.49 Pérdida bruta -205.91
+Factor de
+beneficio
+0.99 Beneficio esperado -0.48
+Drawdown
+absoluto
+108.41 Drawdown máximo 287.54 (75.84%) Drawdown relativo 75.84% (287.54)
+Total de
+transacciones
+5 Posiciones cortas (% ganadoras) 2 (50.00%) Posiciones largas (% ganadoras) 3 (66.67%)
+Transacciones rentables (% del total) 3 (60.00%) Transacciones no rentables (% del total) 2 (40.00%)
+Mayor transacción rentable 136.23 transacción no rentable -105.72
+Media transacción rentable 67.83 transacción no rentable -102.95
+Número máximo ganancias consecutivas (beneficio en dinero) 2 (67.25) pérdidas consecutivas (pérdidas en dinero) 2 (-205.91)
+Máx. beneficio consecutivo (número de ganancias) 136.23 (1) pérdidas consecutivas (número de pérdidas) -205.91 (2)
+Promedio ganancias consecutivas 2 pérdidas consecutivas 2
+
+------------------------------------------------------------------------------------------------------------------------
+Strategy Tester Report
+UniversalMACrossEA_V8_1_2026
+ICMarketsSC-Demo04 (Build 1470)
+Símbolo EURUSD (Euro vs US Dollar)
+Período 15 minutos (M5) 2023.03.01 00:00 - 2026.03.04 23:45 (2023.03.01 - 2026.03.05)
+Modelo Cada tick (el método más preciso basado en todos los períodos menores disponibles)
+Parámetros
+Expert_Name="Universal MA Cross EA v8.1 (Restored)"; MagicNumber=1234; StopLoss=100; TakeProfit=200; Trailing_Setting="---------- Trailing Stop Setting";
+TrailingStopType=1; TrailingStop=40; Indicator_Setting="---------- MA Settings"; FastMAPeriod=12; FastMAType=1; FastMAPrice=0; FastMAshift=0; SlowMAPeriod=144;
+SlowMAType=1; SlowMAPrice=0; SlowMAshift=0; CrossDist_Setting="---------- Min Cross Distance"; MinCrossDistance=3; MaxLookUp=0; Exit_Setting="---------- Exit
+Settings"; StopAndReverse=true; PureSAR=false; ExitOnCross=false; ThirdMA_Setting="---------- Third MA Filter"; UseThirdMA=false; UseCounterTrend=false;
+ThirdMAPeriod=100; ThirdMAType=1; Pivot_Setting="---------- Pivot Filter"; Use_Pivot_Filter=true; Order_Setting="---------- Order Logic"; ConfirmedOnEntry=true;
+OneEntryPerBar=true; Slippage=5; MM_Parameters="---------- Money Management"; Lots=0.1; MM=false; Risk=2;
+Barras en el
+historial
+75678 Ticks modelados 40745610 Calidad del modelado 90.00%
+Errores de
+desalineación
+de gráficos
+0
+Depósito inicial 200.00 Spread 2
+Beneficio neto
+total
+908.30 Beneficio bruto 1280.82 Pérdida bruta -372.52
+Factor de
+beneficio
+3.44 Beneficio esperado 37.85
+Drawdown
+absoluto
+102.07 Drawdown máximo 314.73 (53.38%) Drawdown relativo 53.38% (314.73)
+Total de
+transacciones
+24 Posiciones cortas (% ganadoras) 11 (81.82%) Posiciones largas (% ganadoras) 13 (84.62%)
+Transacciones rentables (% del total) 20 (83.33%) Transacciones no rentables (% del total) 4 (16.67%)
+Mayor transacción rentable 199.30 transacción no rentable -105.72
+Media transacción rentable 64.04 transacción no rentable -93.13
+Número máximo ganancias consecutivas (beneficio en dinero) 12 (699.95) pérdidas consecutivas (pérdidas en dinero) 2 (-205.91)
+Máx. beneficio consecutivo (número de ganancias) 699.95 (12) pérdidas consecutivas (número de pérdidas) -205.91 (2)
+Promedio ganancias consecutivas 5 pérdidas consecutivas 1
+
+------------------------------------------------------------------------------------------------------------------------
+Strategy Tester Report
+UniversalMACrossEA_V8_1_2026
+ICMarketsSC-Demo04 (Build 1470)
+Símbolo EURUSD (Euro vs US Dollar)
+Período 1 hora (H1) 2023.03.01 00:00 - 2026.03.04 23:00 (2023.03.01 - 2026.03.05)
+Modelo Cada tick (el método más preciso basado en todos los períodos menores disponibles)
+Parámetros
+Expert_Name="Universal MA Cross EA v8.1 (Restored)"; MagicNumber=1234; StopLoss=100; TakeProfit=200; Trailing_Setting="---------- Trailing Stop Setting";
+TrailingStopType=1; TrailingStop=40; Indicator_Setting="---------- MA Settings"; FastMAPeriod=12; FastMAType=1; FastMAPrice=0; FastMAshift=0; SlowMAPeriod=144;
+SlowMAType=1; SlowMAPrice=0; SlowMAshift=0; CrossDist_Setting="---------- Min Cross Distance"; MinCrossDistance=7; MaxLookUp=0; Exit_Setting="---------- Exit
+Settings"; StopAndReverse=true; PureSAR=false; ExitOnCross=false; ThirdMA_Setting="---------- Third MA Filter"; UseThirdMA=false; UseCounterTrend=false;
+ThirdMAPeriod=100; ThirdMAType=1; Pivot_Setting="---------- Pivot Filter"; Use_Pivot_Filter=true; Order_Setting="---------- Order Logic"; ConfirmedOnEntry=true;
+OneEntryPerBar=true; Slippage=5; MM_Parameters="---------- Money Management"; Lots=0.1; MM=false; Risk=2;
+Barras en el
+historial
+19680 Ticks modelados 40717514 Calidad del modelado 90.00%
+Errores de
+desalineación
+de gráficos
+0
+Depósito inicial 200.00 Spread 2
+Beneficio neto
+total
+-194.82 Beneficio bruto 16.06 Pérdida bruta -210.88
+Factor de
+beneficio
+0.08 Beneficio esperado -48.71
+Drawdown
+absoluto
+194.82 Drawdown máximo 223.12 (97.73%) Drawdown relativo 97.73% (223.12)
+Total de
+transacciones
+4 Posiciones cortas (% ganadoras) 3 (33.33%) Posiciones largas (% ganadoras) 1 (0.00%)
+Transacciones rentables (% del total) 1 (25.00%) Transacciones no rentables (% del total) 3 (75.00%)
+Mayor transacción rentable 16.06 transacción no rentable -99.68
+Media transacción rentable 16.06 transacción no rentable -70.29
+Número máximo ganancias consecutivas (beneficio en dinero) 1 (16.06) pérdidas consecutivas (pérdidas en dinero) 2 (-111.20)
+Máx. beneficio consecutivo (número de ganancias) 16.06 (1) pérdidas consecutivas (número de pérdidas) -111.20 (2)
+Promedio ganancias consecutivas 1 pérdidas consecutivas 2
+
+------------------------------------------------------------------------------------------------------------------------
+Strategy Tester Report
+UniversalMACrossEA_V8_1_2026
+ICMarketsSC-Demo04 (Build 1470)
+Símbolo EURUSD (Euro vs US Dollar)
+Período 15 minutos (M5) 2023.03.01 00:00 - 2026.03.04 23:45 (2023.03.01 - 2026.03.05)
+Modelo Cada tick (el método más preciso basado en todos los períodos menores disponibles)
+Parámetros
+Expert_Name="Universal MA Cross EA v8.1 (Restored)"; MagicNumber=1234; StopLoss=100; TakeProfit=200; Trailing_Setting="---------- Trailing Stop Setting";
+TrailingStopType=1; TrailingStop=40; Indicator_Setting="---------- MA Settings"; FastMAPeriod=12; FastMAType=1; FastMAPrice=0; FastMAshift=0; SlowMAPeriod=144;
+SlowMAType=1; SlowMAPrice=0; SlowMAshift=0; CrossDist_Setting="---------- Min Cross Distance"; MinCrossDistance=10; MaxLookUp=0; Exit_Setting="---------- Exit
+Settings"; StopAndReverse=true; PureSAR=false; ExitOnCross=false; ThirdMA_Setting="---------- Third MA Filter"; UseThirdMA=false; UseCounterTrend=false;
+ThirdMAPeriod=100; ThirdMAType=1; Pivot_Setting="---------- Pivot Filter"; Use_Pivot_Filter=true; Order_Setting="---------- Order Logic"; ConfirmedOnEntry=true;
+OneEntryPerBar=true; Slippage=5; MM_Parameters="---------- Money Management"; Lots=0.1; MM=false; Risk=2;
+Barras en el
+historial
+75678 Ticks modelados 40745610 Calidad del modelado 90.00%
+Errores de
+desalineación
+de gráficos
+0
+Depósito inicial 200.00 Spread 2
+Beneficio neto
+total
+0.00 Beneficio bruto 0.00 Pérdida bruta -0.00
+Factor de
+beneficio
+Beneficio esperado 0.00
+Drawdown
+absoluto
+0.00 Drawdown máximo 0.00 (0.00%) Drawdown relativo 0.00% (0.00)
+Total de
+transacciones
+0 Posiciones cortas (% ganadoras) 0 (0.00%) Posiciones largas (% ganadoras) 0 (0.00%)
+Transacciones rentables (% del total) 0 (0.00%) Transacciones no rentables (% del total) 0 (0.00%)
+Mayor transacción rentable 0.00 transacción no rentable -0.00
+Media transacción rentable 0.00 transacción no rentable -0.00
+Número máximo ganancias consecutivas (beneficio en dinero) 0 (0.00) pérdidas consecutivas (pérdidas en dinero) 0 (-0.00)
+Máx. beneficio consecutivo (número de ganancias) 0.00 (0) pérdidas consecutivas (número de pérdidas) -0.00 (0)
+Promedio ganancias consecutivas 0 pérdidas consecutivas 0
+
+------------------------------------------------------------------------------------------------------------------------
+Strategy Tester Report
+UniversalMACrossEA_V8_1_2026
+ICMarketsSC-Demo04 (Build 1470)
+Símbolo EURUSD (Euro vs US Dollar)
+Período 1 hora (H1) 2023.03.01 00:00 - 2026.03.04 23:00 (2023.03.01 - 2026.03.05)
+Modelo Cada tick (el método más preciso basado en todos los períodos menores disponibles)
+Parámetros
+Expert_Name="Universal MA Cross EA v8.1 (Restored)"; MagicNumber=1234; StopLoss=100; TakeProfit=200; Trailing_Setting="---------- Trailing Stop Setting";
+TrailingStopType=1; TrailingStop=40; Indicator_Setting="---------- MA Settings"; FastMAPeriod=12; FastMAType=1; FastMAPrice=0; FastMAshift=0; SlowMAPeriod=144;
+SlowMAType=1; SlowMAPrice=0; SlowMAshift=0; CrossDist_Setting="---------- Min Cross Distance"; MinCrossDistance=5; MaxLookUp=0; Exit_Setting="---------- Exit
+Settings"; StopAndReverse=true; PureSAR=false; ExitOnCross=false; ThirdMA_Setting="---------- Third MA Filter"; UseThirdMA=false; UseCounterTrend=false;
+ThirdMAPeriod=100; ThirdMAType=1; Pivot_Setting="---------- Pivot Filter"; Use_Pivot_Filter=false; Order_Setting="---------- Order Logic"; ConfirmedOnEntry=true;
+OneEntryPerBar=true; Slippage=5; MM_Parameters="---------- Money Management"; Lots=0.1; MM=false; Risk=2;
+Barras en el
+historial
+19680 Ticks modelados 40717514 Calidad del modelado 90.00%
+Errores de
+desalineación
+de gráficos
+0
+Depósito inicial 200.00 Spread 2
+Beneficio neto
+total
+-194.90 Beneficio bruto 0.00 Pérdida bruta -194.90
+Factor de
+beneficio
+0.00 Beneficio esperado -97.45
+Drawdown
+absoluto
+194.90 Drawdown máximo 237.26 (97.90%) Drawdown relativo 97.90% (237.26)
+Total de
+transacciones
+2 Posiciones cortas (% ganadoras) 2 (0.00%) Posiciones largas (% ganadoras) 0 (0.00%)
+Transacciones rentables (% del total) 0 (0.00%) Transacciones no rentables (% del total) 2 (100.00%)
+Mayor transacción rentable 0.00 transacción no rentable -99.42
+Media transacción rentable 0.00 transacción no rentable -97.45
+Número máximo ganancias consecutivas (beneficio en dinero) 0 (0.00) pérdidas consecutivas (pérdidas en dinero) 2 (-194.90)
+Máx. beneficio consecutivo (número de ganancias) 0.00 (0) pérdidas consecutivas (número de pérdidas) -194.90 (2)
+Promedio ganancias consecutivas 0 pérdidas consecutivas 2
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
