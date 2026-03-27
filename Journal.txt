@@ -1,0 +1,507 @@
+2026.03.27 03:09:13.917	2026.03.03 17:18:39  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 316 for OrderModify function
+2026.03.27 03:09:13.917	2026.03.03 17:18:39  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #316 sell 0.01 EURUSD at 1.15632 sl: 1.17632 tp: 1.14632 at price 1.15329
+2026.03.27 03:09:13.917	2026.03.03 17:18:39  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:09:13.917	2026.03.03 17:18:39  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:09:13.917	2026.03.03 17:18:39  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:09:13.917	2026.03.03 17:18:39  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 315 for OrderModify function
+2026.03.27 03:09:13.917	2026.03.03 17:18:39  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #315 sell 0.03 EURUSD at 1.15632 sl: 1.17632 tp: 1.14632 at price 1.15330
+2026.03.27 03:09:13.917	2026.03.03 17:18:39  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 9.799999999999809 pips
+2026.03.27 03:09:13.917	2026.03.03 17:18:39  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:09:13.917	2026.03.03 17:18:39  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:09:13.917	2026.03.03 17:18:39  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 314 for OrderModify function
+2026.03.27 03:09:13.917	2026.03.03 17:18:39  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #314 sell 0.05 EURUSD at 1.15632 sl: 1.17632 tp: 1.14632 at price 1.15331
+2026.03.27 03:09:13.901	2026.03.03 17:04:39  Universal_MA_Cross_Shield_2026 EURUSD,M15: open #314 sell 0.10 EURUSD at 1.15632 sl: 1.17632 tp: 1.14632 ok
+2026.03.27 03:09:13.901	2026.03.03 17:04:39  Tester: take profit #313 at 1.15634 (1.15632 / 1.15634)
+2026.03.27 03:09:13.816	2026.03.03 10:12:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:09:13.816	2026.03.03 10:12:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:09:13.816	2026.03.03 10:12:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:09:13.816	2026.03.03 10:12:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 312 for OrderModify function
+2026.03.27 03:09:13.816	2026.03.03 10:12:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #312 sell 0.01 EURUSD at 1.16634 sl: 1.18634 tp: 1.15634 at price 1.16333
+2026.03.27 03:09:13.816	2026.03.03 10:12:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:09:13.816	2026.03.03 10:12:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:09:13.816	2026.03.03 10:12:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:09:13.816	2026.03.03 10:12:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 311 for OrderModify function
+2026.03.27 03:09:13.816	2026.03.03 10:12:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #311 sell 0.03 EURUSD at 1.16634 sl: 1.18634 tp: 1.15634 at price 1.16332
+2026.03.27 03:09:13.816	2026.03.03 10:12:39  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 8.200000000000429 pips
+2026.03.27 03:09:13.816	2026.03.03 10:12:39  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:09:13.816	2026.03.03 10:12:39  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:09:13.816	2026.03.03 10:12:39  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 310 for OrderModify function
+2026.03.27 03:09:13.816	2026.03.03 10:12:39  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #310 sell 0.05 EURUSD at 1.16634 sl: 1.18634 tp: 1.15634 at price 1.16334
+2026.03.27 03:09:13.816	2026.03.03 08:04:27  Universal_MA_Cross_Shield_2026 EURUSD,M15: open #310 sell 0.10 EURUSD at 1.16634 sl: 1.18634 tp: 1.15634 ok
+2026.03.27 03:09:13.801	2026.03.03 08:04:27  Tester: take profit #309 at 1.16636 (1.16634 / 1.16636)
+2026.03.27 03:09:13.654	2026.03.02 08:40:18  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:09:13.654	2026.03.02 08:40:18  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:09:13.654	2026.03.02 08:40:18  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:09:13.654	2026.03.02 08:40:18  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 308 for OrderModify function
+2026.03.27 03:09:13.654	2026.03.02 08:40:18  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #308 sell 0.01 EURUSD at 1.17636 sl: 1.19636 tp: 1.16636 at price 1.17336
+2026.03.27 03:09:13.654	2026.03.02 08:40:18  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:09:13.654	2026.03.02 08:40:18  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:09:13.654	2026.03.02 08:40:18  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:09:13.654	2026.03.02 08:40:18  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 307 for OrderModify function
+2026.03.27 03:09:13.654	2026.03.02 08:40:18  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #307 sell 0.03 EURUSD at 1.17636 sl: 1.19636 tp: 1.16636 at price 1.17336
+2026.03.27 03:09:13.654	2026.03.02 08:40:18  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 70.99999999999883 pips
+2026.03.27 03:09:13.654	2026.03.02 08:40:18  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:09:13.654	2026.03.02 08:40:18  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:09:13.654	2026.03.02 08:40:18  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 306 for OrderModify function
+2026.03.27 03:09:13.654	2026.03.02 08:40:18  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #306 sell 0.05 EURUSD at 1.17636 sl: 1.19636 tp: 1.16636 at price 1.17336
+2026.03.27 03:09:13.075	2026.02.19 15:02:15  Universal_MA_Cross_Shield_2026 EURUSD,M15: open #306 sell 0.10 EURUSD at 1.17636 sl: 1.19636 tp: 1.16636 ok
+2026.03.27 03:09:13.075	2026.02.19 15:02:15  Tester: take profit #305 at 1.17638 (1.17636 / 1.17638)
+2026.03.27 03:09:11.708	2026.02.02 15:16:00  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:09:11.708	2026.02.02 15:16:00  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:09:11.708	2026.02.02 15:16:00  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:09:11.708	2026.02.02 15:16:00  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 304 for OrderModify function
+2026.03.27 03:09:11.708	2026.02.02 15:16:00  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #304 sell 0.01 EURUSD at 1.18638 sl: 1.20638 tp: 1.17638 at price 1.18336
+2026.03.27 03:09:11.708	2026.02.02 15:15:47  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:09:11.708	2026.02.02 15:15:47  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:09:11.708	2026.02.02 15:15:47  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:09:11.708	2026.02.02 15:15:47  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 303 for OrderModify function
+2026.03.27 03:09:11.708	2026.02.02 15:15:47  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #303 sell 0.03 EURUSD at 1.18638 sl: 1.20638 tp: 1.17638 at price 1.18337
+2026.03.27 03:09:11.708	2026.02.02 15:15:47  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 199.8000000000011 pips
+2026.03.27 03:09:11.708	2026.02.02 15:15:47  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:09:11.708	2026.02.02 15:15:47  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:09:11.708	2026.02.02 15:15:47  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 302 for OrderModify function
+2026.03.27 03:09:11.708	2026.02.02 15:15:47  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #302 sell 0.05 EURUSD at 1.18638 sl: 1.20638 tp: 1.17638 at price 1.18338
+2026.03.27 03:09:11.569	2026.01.30 20:18:04  Universal_MA_Cross_Shield_2026 EURUSD,M15: open #302 sell 0.10 EURUSD at 1.18638 sl: 1.20638 tp: 1.17638 ok
+2026.03.27 03:09:11.567	2026.01.30 20:18:04  Tester: stop loss #301 at 1.18638 (1.18638 / 1.18640)
+2026.03.27 03:09:11.046	2026.01.27 22:48:28  Universal_MA_Cross_Shield_2026 EURUSD,M15: open #301 buy 0.10 EURUSD at 1.20638 sl: 1.18638 tp: 1.21638 ok
+2026.03.27 03:09:11.046	2026.01.27 22:48:28  Tester: take profit #300 at 1.20636 (1.20636 / 1.20638)
+2026.03.27 03:09:11.031	2026.01.27 22:45:29  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:09:11.031	2026.01.27 22:45:29  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:09:11.031	2026.01.27 22:45:29  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:09:11.031	2026.01.27 22:45:29  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 299 for OrderModify function
+2026.03.27 03:09:11.031	2026.01.27 22:45:29  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #299 buy 0.01 EURUSD at 1.19636 sl: 1.17636 tp: 1.20636 at price 1.19938
+2026.03.27 03:09:11.031	2026.01.27 22:45:29  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:09:11.031	2026.01.27 22:45:29  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:09:11.031	2026.01.27 22:45:29  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:09:11.031	2026.01.27 22:45:29  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 298 for OrderModify function
+2026.03.27 03:09:11.031	2026.01.27 22:45:29  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #298 buy 0.03 EURUSD at 1.19636 sl: 1.17636 tp: 1.20636 at price 1.19937
+2026.03.27 03:09:11.031	2026.01.27 22:45:28  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 28.50000000000019 pips
+2026.03.27 03:09:11.031	2026.01.27 22:45:28  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:09:11.031	2026.01.27 22:45:28  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:09:11.031	2026.01.27 22:45:28  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 297 for OrderModify function
+2026.03.27 03:09:11.031	2026.01.27 22:45:28  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #297 buy 0.05 EURUSD at 1.19636 sl: 1.17636 tp: 1.20636 at price 1.19936
+2026.03.27 03:09:10.993	2026.01.27 17:14:18  Universal_MA_Cross_Shield_2026 EURUSD,M15: open #297 buy 0.10 EURUSD at 1.19636 sl: 1.17636 tp: 1.20636 ok
+2026.03.27 03:09:10.993	2026.01.27 17:14:18  Tester: take profit #296 at 1.19634 (1.19634 / 1.19636)
+2026.03.27 03:09:10.745	2026.01.26 01:00:13  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:09:10.745	2026.01.26 01:00:13  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:09:10.745	2026.01.26 01:00:13  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:09:10.745	2026.01.26 01:00:13  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 295 for OrderModify function
+2026.03.27 03:09:10.745	2026.01.26 01:00:13  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #295 buy 0.01 EURUSD at 1.18634 sl: 1.16634 tp: 1.19634 at price 1.18936
+2026.03.27 03:09:10.745	2026.01.26 01:00:13  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:09:10.745	2026.01.26 01:00:13  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:09:10.745	2026.01.26 01:00:13  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:09:10.745	2026.01.26 01:00:13  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 294 for OrderModify function
+2026.03.27 03:09:10.745	2026.01.26 01:00:13  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #294 buy 0.03 EURUSD at 1.18634 sl: 1.16634 tp: 1.19634 at price 1.18935
+2026.03.27 03:09:10.745	2026.01.26 01:00:12  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 179.3999999999984 pips
+2026.03.27 03:09:10.745	2026.01.26 01:00:12  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:09:10.745	2026.01.26 01:00:12  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:09:10.745	2026.01.26 01:00:12  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 293 for OrderModify function
+2026.03.27 03:09:10.745	2026.01.26 01:00:12  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #293 buy 0.05 EURUSD at 1.18634 sl: 1.16634 tp: 1.19634 at price 1.18934
+2026.03.27 03:09:10.745	2026.01.26 00:00:00  Universal_MA_Cross_Shield_2026 EURUSD,M15: open #293 buy 0.10 EURUSD at 1.18634 sl: 1.16634 tp: 1.19634 ok
+2026.03.27 03:09:10.745	2026.01.26 00:00:00  Tester: take profit #292 at 1.18569 (1.18632 / 1.18634)
+2026.03.27 03:09:08.804	2025.12.16 15:30:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:09:08.804	2025.12.16 15:30:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:09:08.804	2025.12.16 15:30:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:09:08.804	2025.12.16 15:30:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 291 for OrderModify function
+2026.03.27 03:09:08.804	2025.12.16 15:30:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #291 buy 0.01 EURUSD at 1.17569 sl: 1.15569 tp: 1.18569 at price 1.17872
+2026.03.27 03:09:08.804	2025.12.16 15:30:39  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:09:08.804	2025.12.16 15:30:39  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:09:08.804	2025.12.16 15:30:39  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:09:08.804	2025.12.16 15:30:39  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 290 for OrderModify function
+2026.03.27 03:09:08.804	2025.12.16 15:30:39  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #290 buy 0.03 EURUSD at 1.17569 sl: 1.15569 tp: 1.18569 at price 1.17871
+2026.03.27 03:09:08.804	2025.12.16 15:30:39  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 199.6999999999982 pips
+2026.03.27 03:09:08.804	2025.12.16 15:30:39  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:09:08.804	2025.12.16 15:30:39  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:09:08.804	2025.12.16 15:30:39  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 289 for OrderModify function
+2026.03.27 03:09:08.804	2025.12.16 15:30:39  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #289 buy 0.05 EURUSD at 1.17569 sl: 1.15569 tp: 1.18569 at price 1.17870
+2026.03.27 03:09:08.644	2025.12.11 17:52:15  Universal_MA_Cross_Shield_2026 EURUSD,M15: open #289 buy 0.10 EURUSD at 1.17569 sl: 1.15569 tp: 1.18569 ok
+2026.03.27 03:09:08.642	2025.12.11 17:52:15  Tester: stop loss #288 at 1.17569 (1.17567 / 1.17569)
+2026.03.27 03:09:06.963	2025.10.31 16:22:41  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:09:06.963	2025.10.31 16:22:41  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:09:06.963	2025.10.31 16:22:41  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:09:06.963	2025.10.31 16:22:41  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 287 for OrderModify function
+2026.03.27 03:09:06.963	2025.10.31 16:22:41  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #287 sell 0.01 EURUSD at 1.15569 sl: 1.17569 tp: 1.14569 at price 1.15269
+2026.03.27 03:09:06.963	2025.10.31 16:22:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:09:06.963	2025.10.31 16:22:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:09:06.963	2025.10.31 16:22:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:09:06.963	2025.10.31 16:22:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 286 for OrderModify function
+2026.03.27 03:09:06.963	2025.10.31 16:22:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #286 sell 0.03 EURUSD at 1.15569 sl: 1.17569 tp: 1.14569 at price 1.15268
+2026.03.27 03:09:06.963	2025.10.31 16:22:39  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 171.199999999998 pips
+2026.03.27 03:09:06.963	2025.10.31 16:22:39  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:09:06.963	2025.10.31 16:22:39  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:09:06.963	2025.10.31 16:22:39  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 285 for OrderModify function
+2026.03.27 03:09:06.963	2025.10.31 16:22:39  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #285 sell 0.05 EURUSD at 1.15569 sl: 1.17569 tp: 1.14569 at price 1.15269
+2026.03.27 03:09:06.077	2025.10.09 18:28:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: open #285 sell 0.10 EURUSD at 1.15569 sl: 1.17569 tp: 1.14569 ok
+2026.03.27 03:09:06.077	2025.10.09 18:28:40  Tester: take profit #284 at 1.15572 (1.15569 / 1.15571)
+2026.03.27 03:09:05.961	2025.10.08 04:30:28  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:09:05.961	2025.10.08 04:30:28  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:09:05.961	2025.10.08 04:30:28  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:09:05.961	2025.10.08 04:30:28  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 283 for OrderModify function
+2026.03.27 03:09:05.961	2025.10.08 04:30:28  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #283 sell 0.01 EURUSD at 1.16572 sl: 1.18572 tp: 1.15572 at price 1.16267
+2026.03.27 03:09:05.961	2025.10.08 04:30:28  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:09:05.961	2025.10.08 04:30:28  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:09:05.961	2025.10.08 04:30:28  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:09:05.961	2025.10.08 04:30:28  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 282 for OrderModify function
+2026.03.27 03:09:05.961	2025.10.08 04:30:28  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #282 sell 0.03 EURUSD at 1.16572 sl: 1.18572 tp: 1.15572 at price 1.16269
+2026.03.27 03:09:05.961	2025.10.08 04:30:27  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 199.8999999999995 pips
+2026.03.27 03:09:05.961	2025.10.08 04:30:27  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:09:05.961	2025.10.08 04:30:27  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:09:05.961	2025.10.08 04:30:27  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 281 for OrderModify function
+2026.03.27 03:09:05.961	2025.10.08 04:30:27  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #281 sell 0.05 EURUSD at 1.16572 sl: 1.18572 tp: 1.15572 at price 1.16271
+2026.03.27 03:09:05.475	2025.09.25 20:25:14  Universal_MA_Cross_Shield_2026 EURUSD,M15: open #281 sell 0.10 EURUSD at 1.16572 sl: 1.18572 tp: 1.15572 ok
+2026.03.27 03:09:05.475	2025.09.25 20:25:14  Tester: stop loss #280 at 1.16572 (1.16572 / 1.16574)
+2026.03.27 03:09:05.105	2025.09.17 21:02:16  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 5.199999999998539 pips
+2026.03.27 03:09:05.105	2025.09.17 21:02:16  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:09:05.105	2025.09.17 21:02:16  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:09:05.105	2025.09.17 21:02:16  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 279 for OrderModify function
+2026.03.27 03:09:05.105	2025.09.17 21:02:16  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #279 buy 0.01 EURUSD at 1.18572 sl: 1.16572 tp: 1.19572 at price 1.18874
+2026.03.27 03:09:05.105	2025.09.17 21:02:16  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 5.199999999998539 pips
+2026.03.27 03:09:05.105	2025.09.17 21:02:16  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:09:05.105	2025.09.17 21:02:16  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:09:05.105	2025.09.17 21:02:16  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 278 for OrderModify function
+2026.03.27 03:09:05.105	2025.09.17 21:02:16  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #278 buy 0.03 EURUSD at 1.18572 sl: 1.16572 tp: 1.19572 at price 1.18873
+2026.03.27 03:09:05.105	2025.09.17 21:02:15  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 24.49999999999841 pips
+2026.03.27 03:09:05.105	2025.09.17 21:02:15  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:09:05.105	2025.09.17 21:02:15  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:09:05.105	2025.09.17 21:02:15  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 277 for OrderModify function
+2026.03.27 03:09:05.105	2025.09.17 21:02:15  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #277 buy 0.05 EURUSD at 1.18572 sl: 1.16572 tp: 1.19572 at price 1.18872
+2026.03.27 03:09:05.058	2025.09.16 19:18:05  Universal_MA_Cross_Shield_2026 EURUSD,M15: open #277 buy 0.10 EURUSD at 1.18572 sl: 1.16572 tp: 1.19572 ok
+2026.03.27 03:09:05.058	2025.09.16 19:18:05  Tester: take profit #276 at 1.18569 (1.18570 / 1.18572)
+2026.03.27 03:09:05.020	2025.09.16 06:40:18  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:09:05.020	2025.09.16 06:40:18  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:09:05.020	2025.09.16 06:40:18  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:09:05.020	2025.09.16 06:40:18  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 275 for OrderModify function
+2026.03.27 03:09:05.020	2025.09.16 06:40:18  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #275 buy 0.01 EURUSD at 1.17569 sl: 1.15569 tp: 1.18569 at price 1.17869
+2026.03.27 03:09:05.020	2025.09.16 06:39:41  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:09:05.020	2025.09.16 06:39:41  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:09:05.020	2025.09.16 06:39:41  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:09:05.020	2025.09.16 06:39:41  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 274 for OrderModify function
+2026.03.27 03:09:05.020	2025.09.16 06:39:41  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #274 buy 0.03 EURUSD at 1.17569 sl: 1.15569 tp: 1.18569 at price 1.17869
+2026.03.27 03:09:05.020	2025.09.16 06:39:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 96.49999999999936 pips
+2026.03.27 03:09:05.020	2025.09.16 06:39:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:09:05.020	2025.09.16 06:39:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:09:05.020	2025.09.16 06:39:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 273 for OrderModify function
+2026.03.27 03:09:05.020	2025.09.16 06:39:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #273 buy 0.05 EURUSD at 1.17569 sl: 1.15569 tp: 1.18569 at price 1.17871
+2026.03.27 03:09:04.673	2025.09.05 17:02:27  Universal_MA_Cross_Shield_2026 EURUSD,M15: open #273 buy 0.10 EURUSD at 1.17569 sl: 1.15569 tp: 1.18569 ok
+2026.03.27 03:09:04.657	2025.09.05 17:02:27  Tester: take profit #272 at 1.17566 (1.17567 / 1.17569)
+2026.03.27 03:09:03.425	2025.08.07 10:48:32  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:09:03.425	2025.08.07 10:48:32  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:09:03.425	2025.08.07 10:48:32  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:09:03.425	2025.08.07 10:48:32  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 271 for OrderModify function
+2026.03.27 03:09:03.425	2025.08.07 10:48:32  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #271 buy 0.01 EURUSD at 1.16566 sl: 1.14566 tp: 1.17566 at price 1.16867
+2026.03.27 03:09:03.425	2025.08.07 10:47:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:09:00.213	2025.06.05 16:27:05  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:09:00.213	2025.06.05 16:27:05  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:09:00.213	2025.06.05 16:27:05  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:09:00.213	2025.06.05 16:27:05  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 241 for OrderModify function
+2026.03.27 03:09:00.213	2025.06.05 16:27:05  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #241 buy 0.03 EURUSD at 1.14564 sl: 1.12564 tp: 1.15564 at price 1.14868
+2026.03.27 03:09:00.213	2025.06.05 16:27:04  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 146.2999999999992 pips
+2026.03.27 03:09:00.213	2025.06.05 16:27:04  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:09:00.213	2025.06.05 16:27:04  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:58.577	2025.05.08 19:13:55  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:58.577	2025.05.08 19:13:55  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 230 for OrderModify function
+2026.03.27 03:08:58.577	2025.05.08 19:13:55  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #230 sell 0.01 EURUSD at 1.12564 sl: 1.14564 tp: 1.11564 at price 1.12263
+2026.03.27 03:08:58.577	2025.05.08 19:13:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:08:58.577	2025.05.08 19:13:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:58.577	2025.05.08 19:13:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:58.577	2025.05.08 19:13:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 229 for OrderModify function
+2026.03.27 03:08:58.577	2025.05.08 19:13:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #229 sell 0.03 EURUSD at 1.12564 sl: 1.14564 tp: 1.11564 at price 1.12264
+2026.03.27 03:08:58.577	2025.05.08 19:13:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 82.80000000000065 pips
+2026.03.27 03:08:58.577	2025.05.08 19:13:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:58.577	2025.05.08 19:13:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:58.577	2025.05.08 19:13:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 228 for OrderModify function
+2026.03.27 03:08:58.577	2025.05.08 19:13:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #228 sell 0.05 EURUSD at 1.12564 sl: 1.14564 tp: 1.11564 at price 1.12262
+2026.03.27 03:08:58.577	2025.05.08 18:46:17  Universal_MA_Cross_Shield_2026 EURUSD,M15: open #228 sell 0.10 EURUSD at 1.12564 sl: 1.14564 tp: 1.11564 ok
+2026.03.27 03:08:58.577	2025.05.08 18:46:17  Tester: take profit #227 at 1.12566 (1.12564 / 1.12566)
+2026.03.27 03:08:57.458	2025.04.23 01:27:27  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 2.20000000000109 pips
+2026.03.27 03:08:57.458	2025.04.23 01:27:27  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:57.458	2025.04.23 01:27:27  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:57.458	2025.04.23 01:27:27  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 226 for OrderModify function
+2026.03.27 03:08:57.458	2025.04.23 01:27:27  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #226 sell 0.01 EURUSD at 1.13566 sl: 1.15566 tp: 1.12566 at price 1.13258
+2026.03.27 03:08:57.458	2025.04.23 01:27:27  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 2.20000000000109 pips
+2026.03.27 03:08:57.458	2025.04.23 01:27:27  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:57.458	2025.04.23 01:27:27  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:57.458	2025.04.23 01:27:27  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 225 for OrderModify function
+2026.03.27 03:08:54.209	2025.03.07 15:34:39  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #195 buy 0.01 EURUSD at 1.08523 sl: 1.06523 tp: 1.09523 at price 1.08830
+2026.03.27 03:08:54.209	2025.03.07 15:34:38  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 9.099999999999664 pips
+2026.03.27 03:08:54.209	2025.03.07 15:34:38  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:54.209	2025.03.07 15:34:38  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:54.209	2025.03.07 15:34:38  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 194 for OrderModify function
+2026.03.27 03:08:54.209	2025.03.07 15:34:38  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #194 buy 0.03 EURUSD at 1.08523 sl: 1.06523 tp: 1.09523 at price 1.08827
+2026.03.27 03:08:54.209	2025.03.07 15:34:38  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 86.80000000000021 pips
+2026.03.27 03:08:54.209	2025.03.07 15:34:38  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:54.209	2025.03.07 15:34:38  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:54.209	2025.03.07 15:34:38  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 193 for OrderModify function
+2026.03.27 03:08:54.209	2025.03.07 15:34:38  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #193 buy 0.05 EURUSD at 1.08523 sl: 1.06523 tp: 1.09523 at price 1.08824
+2026.03.27 03:08:54.124	2025.03.06 17:03:37  Universal_MA_Cross_Shield_2026 EURUSD,M15: open #193 buy 0.10 EURUSD at 1.08523 sl: 1.06523 tp: 1.09523 ok
+2026.03.27 03:08:54.124	2025.03.06 17:03:37  Tester: take profit #192 at 1.08520 (1.08521 / 1.08523)
+2026.03.27 03:08:54.024	2025.03.05 18:09:29  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:08:54.024	2025.03.05 18:09:29  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:54.024	2025.03.05 18:09:29  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:54.024	2025.03.05 18:09:29  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 191 for OrderModify function
+2026.03.27 03:08:54.024	2025.03.05 18:09:29  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #191 buy 0.01 EURUSD at 1.07520 sl: 1.05520 tp: 1.08520 at price 1.07825
+2026.03.27 03:08:54.024	2025.03.05 18:09:29  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:08:54.024	2025.03.05 18:09:29  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:54.024	2025.03.05 18:09:29  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:54.024	2025.03.05 18:09:29  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 190 for OrderModify function
+2026.03.27 03:08:54.024	2025.03.05 18:09:29  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #190 buy 0.03 EURUSD at 1.07520 sl: 1.05520 tp: 1.08520 at price 1.07823
+2026.03.27 03:08:54.024	2025.03.05 18:09:28  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 30.59999999999841 pips
+2026.03.27 03:08:54.024	2025.03.05 18:09:28  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:54.024	2025.03.05 18:09:28  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:54.024	2025.03.05 18:09:28  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 189 for OrderModify function
+2026.03.27 03:08:54.024	2025.03.05 18:09:28  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #189 buy 0.05 EURUSD at 1.07520 sl: 1.05520 tp: 1.08520 at price 1.07820
+2026.03.27 03:08:54.008	2025.03.05 16:29:38  Universal_MA_Cross_Shield_2026 EURUSD,M15: open #189 buy 0.10 EURUSD at 1.07520 sl: 1.05520 tp: 1.08520 ok
+2026.03.27 03:08:54.008	2025.03.05 16:29:38  Tester: take profit #188 at 1.07516 (1.07518 / 1.07520)
+2026.03.27 03:08:53.962	2025.03.05 10:14:46  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:08:53.962	2025.03.05 10:14:46  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:53.962	2025.03.05 10:14:46  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:53.962	2025.03.05 10:14:46  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 187 for OrderModify function
+2026.03.27 03:08:53.962	2025.03.05 10:14:46  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #187 buy 0.01 EURUSD at 1.06516 sl: 1.04516 tp: 1.07516 at price 1.06820
+2026.03.27 03:08:53.962	2025.03.05 10:14:46  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:08:53.962	2025.03.05 10:14:46  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:53.962	2025.03.05 10:14:46  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:53.962	2025.03.05 10:14:46  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 186 for OrderModify function
+2026.03.27 03:08:53.962	2025.03.05 10:14:46  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #186 buy 0.03 EURUSD at 1.06516 sl: 1.04516 tp: 1.07516 at price 1.06818
+2026.03.27 03:08:53.962	2025.03.05 10:14:45  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 22.09999999999823 pips
+2026.03.27 03:08:53.962	2025.03.05 10:14:45  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:53.962	2025.03.05 10:14:45  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:53.962	2025.03.05 10:14:45  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 185 for OrderModify function
+2026.03.27 03:08:53.962	2025.03.05 10:14:45  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #185 buy 0.05 EURUSD at 1.06516 sl: 1.04516 tp: 1.07516 at price 1.06817
+2026.03.27 03:08:53.962	2025.03.05 09:26:25  Universal_MA_Cross_Shield_2026 EURUSD,M15: open #185 buy 0.10 EURUSD at 1.06516 sl: 1.04516 tp: 1.07516 ok
+2026.03.27 03:08:53.962	2025.03.05 09:26:25  Tester: take profit #184 at 1.06514 (1.06514 / 1.06516)
+2026.03.27 03:08:53.908	2025.03.04 20:44:38  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:08:53.908	2025.03.04 20:44:38  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:53.908	2025.03.04 20:44:38  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:53.908	2025.03.04 20:44:38  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 183 for OrderModify function
+2026.03.27 03:08:53.908	2025.03.04 20:44:38  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #183 buy 0.01 EURUSD at 1.05514 sl: 1.03514 tp: 1.06514 at price 1.05818
+2026.03.27 03:08:53.908	2025.03.04 20:44:38  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:08:53.908	2025.03.04 20:44:38  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:53.908	2025.03.04 20:44:38  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:53.908	2025.03.04 20:44:38  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 182 for OrderModify function
+2026.03.27 03:08:53.908	2025.03.04 20:44:38  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #182 buy 0.03 EURUSD at 1.05514 sl: 1.03514 tp: 1.06514 at price 1.05816
+2026.03.27 03:08:53.908	2025.03.04 20:44:37  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 91.2999999999986 pips
+2026.03.27 03:08:53.908	2025.03.04 20:44:37  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:53.908	2025.03.04 20:44:37  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:53.908	2025.03.04 20:44:37  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 181 for OrderModify function
+2026.03.27 03:08:53.908	2025.03.04 20:44:37  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #181 buy 0.05 EURUSD at 1.05514 sl: 1.03514 tp: 1.06514 at price 1.05814
+2026.03.27 03:08:53.877	2025.03.04 14:30:20  Universal_MA_Cross_Shield_2026 EURUSD,M15: open #181 buy 0.10 EURUSD at 1.05514 sl: 1.03514 tp: 1.06514 ok
+2026.03.27 03:08:53.877	2025.03.04 14:30:20  Tester: take profit #180 at 1.05510 (1.05512 / 1.05514)
+2026.03.27 03:08:53.075	2025.02.14 10:31:31  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:08:53.075	2025.02.14 10:31:31  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:53.075	2025.02.14 10:31:31  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:53.075	2025.02.14 10:31:31  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 179 for OrderModify function
+2026.03.27 03:08:53.075	2025.02.14 10:31:31  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #179 buy 0.01 EURUSD at 1.04510 sl: 1.02510 tp: 1.05510 at price 1.04813
+2026.03.27 03:08:53.075	2025.02.14 10:31:30  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:08:53.075	2025.02.14 10:31:30  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:53.075	2025.02.14 10:31:30  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:51.533	2025.01.02 18:03:29  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.9000000000014552 pips
+2026.03.27 03:08:51.533	2025.01.02 18:03:29  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:51.533	2025.01.02 18:03:29  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:51.533	2025.01.02 18:03:29  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 166 for OrderModify function
+2026.03.27 03:08:51.533	2025.01.02 18:03:29  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #166 sell 0.03 EURUSD at 1.02751 sl: 1.04751 tp: 1.01751 at price 1.02439
+2026.03.27 03:08:51.533	2025.01.02 18:03:29  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 82.89999999999908 pips
+2026.03.27 03:08:51.533	2025.01.02 18:03:29  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:51.533	2025.01.02 18:03:29  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:51.533	2025.01.02 18:03:29  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 165 for OrderModify function
+2026.03.27 03:08:51.533	2025.01.02 18:03:29  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #165 sell 0.05 EURUSD at 1.02751 sl: 1.04751 tp: 1.01751 at price 1.02449
+2026.03.27 03:08:51.533	2025.01.02 17:59:36  Universal_MA_Cross_Shield_2026 EURUSD,M15: open #165 sell 0.10 EURUSD at 1.02751 sl: 1.04751 tp: 1.01751 ok
+2026.03.27 03:08:51.533	2025.01.02 17:59:36  Tester: take profit #164 at 1.02753 (1.02751 / 1.02753)
+2026.03.27 03:08:51.169	2024.12.18 22:18:30  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:08:51.169	2024.12.18 22:18:30  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:51.169	2024.12.18 22:18:30  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:51.169	2024.12.18 22:18:30  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 163 for OrderModify function
+2026.03.27 03:08:50.236	2024.11.22 11:14:37  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:50.236	2024.11.22 11:14:37  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 155 for OrderModify function
+2026.03.27 03:08:50.236	2024.11.22 11:14:37  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #155 sell 0.01 EURUSD at 1.03754 sl: 1.05754 tp: 1.02754 at price 1.03419
+2026.03.27 03:08:50.236	2024.11.22 11:14:36  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 68.70000000000154 pips
+2026.03.27 03:08:50.236	2024.11.22 11:14:36  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:50.236	2024.11.22 11:14:36  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:50.236	2024.11.22 11:14:36  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 154 for OrderModify function
+2026.03.27 03:08:50.236	2024.11.22 11:14:36  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #154 sell 0.03 EURUSD at 1.03754 sl: 1.05754 tp: 1.02754 at price 1.03434
+2026.03.27 03:08:50.236	2024.11.22 11:14:36  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 199.8000000000011 pips
+2026.03.27 03:08:50.236	2024.11.22 11:14:36  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:50.236	2024.11.22 11:14:36  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:50.236	2024.11.22 11:14:36  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 153 for OrderModify function
+2026.03.27 03:08:50.236	2024.11.22 11:14:36  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #153 sell 0.05 EURUSD at 1.03754 sl: 1.05754 tp: 1.02754 at price 1.03449
+2026.03.27 03:08:50.236	2024.11.22 11:11:28  Universal_MA_Cross_Shield_2026 EURUSD,M15: open #153 sell 0.10 EURUSD at 1.03754 sl: 1.05754 tp: 1.02754 ok
+2026.03.27 03:08:50.229	2024.11.22 11:11:28  Tester: stop loss #152 at 1.03762 (1.03754 / 1.03756)
+2026.03.27 03:08:50.066	2024.11.18 21:08:35  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:08:50.066	2024.11.18 21:08:35  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:50.066	2024.11.18 21:08:35  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:50.066	2024.11.18 21:08:35  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 151 for OrderModify function
+2026.03.27 03:08:50.066	2024.11.18 21:08:35  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #151 buy 0.01 EURUSD at 1.05762 sl: 1.03762 tp: 1.06762 at price 1.06065
+2026.03.27 03:08:50.066	2024.11.18 21:08:32  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:08:50.066	2024.11.18 21:08:32  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:50.066	2024.11.18 21:08:32  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:50.066	2024.11.18 21:08:32  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 150 for OrderModify function
+2026.03.27 03:08:50.066	2024.11.18 21:08:32  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #150 buy 0.03 EURUSD at 1.05762 sl: 1.03762 tp: 1.06762 at price 1.06066
+2026.03.27 03:08:50.066	2024.11.18 21:08:27  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 80.10000000000072 pips
+2026.03.27 03:08:50.066	2024.11.18 21:08:27  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:50.066	2024.11.18 21:08:27  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:50.066	2024.11.18 21:08:27  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 149 for OrderModify function
+2026.03.27 03:08:50.066	2024.11.18 21:08:27  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #149 buy 0.05 EURUSD at 1.05762 sl: 1.03762 tp: 1.06762 at price 1.06064
+2026.03.27 03:08:49.897	2024.11.13 16:53:30  Universal_MA_Cross_Shield_2026 EURUSD,M15: open #149 buy 0.10 EURUSD at 1.05762 sl: 1.03762 tp: 1.06762 ok
+2026.03.27 03:08:49.897	2024.11.13 16:53:30  Tester: take profit #148 at 1.05765 (1.05760 / 1.05762)
+2026.03.27 03:08:36.015	2024.01.17 17:53:29  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 96 for OrderModify function
+2026.03.27 03:08:36.015	2024.01.17 17:53:29  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #96 sell 0.03 EURUSD at 1.08759 sl: 1.10759 tp: 1.07759 at price 1.08459
+2026.03.27 03:08:36.015	2024.01.17 17:53:28  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 199.8999999999995 pips
+2026.03.27 03:08:36.015	2024.01.17 17:53:28  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:36.015	2024.01.17 17:53:28  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:36.015	2024.01.17 17:53:28  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 95 for OrderModify function
+2026.03.27 03:08:36.015	2024.01.17 17:53:28  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #95 sell 0.05 EURUSD at 1.08759 sl: 1.10759 tp: 1.07759 at price 1.08459
+2026.03.27 03:08:35.667	2024.01.16 13:05:26  Universal_MA_Cross_Shield_2026 EURUSD,M15: open #95 sell 0.10 EURUSD at 1.08759 sl: 1.10759 tp: 1.07759 ok
+2026.03.27 03:08:35.667	2024.01.16 13:05:26  Tester: stop loss #94 at 1.08759 (1.08759 / 1.08761)
+2026.03.27 03:08:32.825	2023.12.27 17:01:03  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:08:32.825	2023.12.27 17:01:03  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:32.825	2023.12.27 17:01:03  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:32.825	2023.12.27 17:01:03  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 93 for OrderModify function
+2026.03.27 03:08:32.825	2023.12.27 17:01:03  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #93 buy 0.01 EURUSD at 1.10759 sl: 1.08759 tp: 1.11759 at price 1.11061
+2026.03.27 03:08:32.825	2023.12.27 17:01:02  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:08:32.825	2023.12.27 17:01:02  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:32.825	2023.12.27 17:01:02  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:32.825	2023.12.27 17:01:02  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 92 for OrderModify function
+2026.03.27 03:08:32.825	2023.12.27 17:01:02  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #92 buy 0.03 EURUSD at 1.10759 sl: 1.08759 tp: 1.11759 at price 1.11060
+2026.03.27 03:08:32.825	2023.12.27 17:01:02  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 87.19999999999838 pips
+2026.03.27 03:08:32.825	2023.12.27 17:01:02  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:32.825	2023.12.27 17:01:02  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:32.825	2023.12.27 17:01:02  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 91 for OrderModify function
+2026.03.27 03:08:32.825	2023.12.27 17:01:02  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #91 buy 0.05 EURUSD at 1.10759 sl: 1.08759 tp: 1.11759 at price 1.11059
+2026.03.27 03:08:32.806	2023.12.27 16:20:03  Universal_MA_Cross_Shield_2026 EURUSD,M15: open #91 buy 0.10 EURUSD at 1.10759 sl: 1.08759 tp: 1.11759 ok
+2026.03.27 03:08:32.806	2023.12.27 16:20:03  Tester: take profit #90 at 1.10757 (1.10757 / 1.10759)
+2026.03.27 03:08:31.233	2023.12.14 19:30:03  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:08:31.233	2023.12.14 19:30:03  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:31.233	2023.12.14 19:30:03  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:31.233	2023.12.14 19:30:03  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 89 for OrderModify function
+2026.03.27 03:08:31.233	2023.12.14 19:30:03  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #89 buy 0.01 EURUSD at 1.09757 sl: 1.07757 tp: 1.10757 at price 1.10069
+2026.03.27 03:08:31.233	2023.12.14 19:30:02  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:08:31.233	2023.12.14 19:30:02  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:31.233	2023.12.14 19:30:02  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:31.233	2023.12.14 19:30:02  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 88 for OrderModify function
+2026.03.27 03:08:31.233	2023.12.14 19:30:02  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #88 buy 0.03 EURUSD at 1.09757 sl: 1.07757 tp: 1.10757 at price 1.10064
+2026.03.27 03:08:31.233	2023.12.14 19:30:01  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 199.5999999999998 pips
+2026.03.27 03:08:31.233	2023.12.14 19:30:01  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:31.233	2023.12.14 19:30:01  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:31.233	2023.12.14 19:30:01  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 87 for OrderModify function
+2026.03.27 03:08:31.233	2023.12.14 19:30:01  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #87 buy 0.05 EURUSD at 1.09757 sl: 1.07757 tp: 1.10757 at price 1.10059
+2026.03.27 03:08:31.217	2023.12.14 16:13:37  Universal_MA_Cross_Shield_2026 EURUSD,M15: open #87 buy 0.10 EURUSD at 1.09757 sl: 1.07757 tp: 1.10757 ok
+2026.03.27 03:08:31.217	2023.12.14 16:13:37  Tester: stop loss #86 at 1.09756 (1.09755 / 1.09757)
+2026.03.27 03:08:31.006	2023.12.08 15:30:17  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:08:31.006	2023.12.08 15:30:17  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:31.006	2023.12.08 15:30:17  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:31.006	2023.12.08 15:30:17  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 85 for OrderModify function
+2026.03.27 03:08:31.006	2023.12.08 15:30:17  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #85 sell 0.01 EURUSD at 1.07756 sl: 1.09756 tp: 1.06756 at price 1.07447
+2026.03.27 03:08:31.006	2023.12.08 15:30:17  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:08:31.006	2023.12.08 15:30:17  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:31.006	2023.12.08 15:30:17  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:31.006	2023.12.08 15:30:17  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 84 for OrderModify function
+2026.03.27 03:08:31.006	2023.12.08 15:30:17  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #84 sell 0.03 EURUSD at 1.07756 sl: 1.09756 tp: 1.06756 at price 1.07451
+2026.03.27 03:08:31.006	2023.12.08 15:30:17  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 199.7999999999988 pips
+2026.03.27 03:08:31.006	2023.12.08 15:30:17  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:31.006	2023.12.08 15:30:17  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:31.006	2023.12.08 15:30:17  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 83 for OrderModify function
+2026.03.27 03:08:31.006	2023.12.08 15:30:17  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #83 sell 0.05 EURUSD at 1.07756 sl: 1.09756 tp: 1.06756 at price 1.07456
+2026.03.27 03:08:30.878	2023.12.06 10:32:02  Universal_MA_Cross_Shield_2026 EURUSD,M15: open #83 sell 0.10 EURUSD at 1.07756 sl: 1.09756 tp: 1.06756 ok
+2026.03.27 03:08:30.878	2023.12.06 10:32:02  Tester: stop loss #82 at 1.07756 (1.07756 / 1.07758)
+2026.03.27 03:08:30.565	2023.11.28 18:59:42  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:08:30.565	2023.11.28 18:59:42  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:30.565	2023.11.28 18:59:42  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:30.565	2023.11.28 18:59:42  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 81 for OrderModify function
+2026.03.27 03:08:30.565	2023.11.28 18:59:42  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #81 buy 0.01 EURUSD at 1.09756 sl: 1.07756 tp: 1.10756 at price 1.10056
+2026.03.27 03:08:30.565	2023.11.28 18:59:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:08:30.565	2023.11.28 18:59:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:30.565	2023.11.28 18:59:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:30.565	2023.11.28 18:59:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 80 for OrderModify function
+2026.03.27 03:08:30.565	2023.11.28 18:59:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #80 buy 0.03 EURUSD at 1.09756 sl: 1.07756 tp: 1.10756 at price 1.10057
+2026.03.27 03:08:30.565	2023.11.28 18:59:39  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 23.19999999999878 pips
+2026.03.27 03:08:30.565	2023.11.28 18:59:39  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:30.565	2023.11.28 18:59:39  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:30.565	2023.11.28 18:59:39  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 79 for OrderModify function
+2026.03.27 03:08:30.565	2023.11.28 18:59:39  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #79 buy 0.05 EURUSD at 1.09756 sl: 1.07756 tp: 1.10756 at price 1.10056
+2026.03.27 03:08:30.553	2023.11.28 16:24:14  Universal_MA_Cross_Shield_2026 EURUSD,M15: open #79 buy 0.10 EURUSD at 1.09756 sl: 1.07756 tp: 1.10756 ok
+2026.03.27 03:08:30.553	2023.11.28 16:24:14  Tester: take profit #78 at 1.09754 (1.09754 / 1.09756)
+2026.03.27 03:08:30.181	2023.11.17 22:51:21  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:08:30.181	2023.11.17 22:51:21  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:30.181	2023.11.17 22:51:21  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:30.181	2023.11.17 22:51:21  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 77 for OrderModify function
+2026.03.27 03:08:30.181	2023.11.17 22:51:21  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #77 buy 0.01 EURUSD at 1.08754 sl: 1.06754 tp: 1.09754 at price 1.09057
+2026.03.27 03:08:30.181	2023.11.17 22:51:15  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:08:30.181	2023.11.17 22:51:15  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:30.181	2023.11.17 22:51:15  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:30.181	2023.11.17 22:51:15  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 76 for OrderModify function
+2026.03.27 03:08:30.181	2023.11.17 22:51:15  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #76 buy 0.03 EURUSD at 1.08754 sl: 1.06754 tp: 1.09754 at price 1.09055
+2026.03.27 03:08:30.181	2023.11.17 22:51:09  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 50.69999999999908 pips
+2026.03.27 03:08:30.181	2023.11.17 22:51:09  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:30.181	2023.11.17 22:51:09  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:30.181	2023.11.17 22:51:09  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 75 for OrderModify function
+2026.03.27 03:08:30.181	2023.11.17 22:51:09  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #75 buy 0.05 EURUSD at 1.08754 sl: 1.06754 tp: 1.09754 at price 1.09054
+2026.03.27 03:08:29.958	2023.11.14 20:39:38  Universal_MA_Cross_Shield_2026 EURUSD,M15: open #75 buy 0.10 EURUSD at 1.08754 sl: 1.06754 tp: 1.09754 ok
+2026.03.27 03:08:29.958	2023.11.14 20:39:38  Tester: take profit #74 at 1.08752 (1.08752 / 1.08754)
+2026.03.27 03:08:29.917	2023.11.14 16:04:37  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:08:29.917	2023.11.14 16:04:37  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:29.917	2023.11.14 16:04:37  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:29.917	2023.11.14 16:04:37  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 73 for OrderModify function
+2026.03.27 03:08:29.917	2023.11.14 16:04:37  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #73 buy 0.01 EURUSD at 1.07752 sl: 1.05752 tp: 1.08752 at price 1.08055
+2026.03.27 03:08:29.917	2023.11.14 16:04:37  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:08:29.917	2023.11.14 16:04:37  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:29.917	2023.11.14 16:04:37  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:29.917	2023.11.14 16:04:37  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 72 for OrderModify function
+2026.03.27 03:08:29.917	2023.11.14 16:04:37  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #72 buy 0.03 EURUSD at 1.07752 sl: 1.05752 tp: 1.08752 at price 1.08053
+2026.03.27 03:08:29.917	2023.11.14 16:04:36  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 52.39999999999911 pips
+2026.03.27 03:08:29.917	2023.11.14 16:04:36  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:29.917	2023.11.14 16:04:36  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:29.917	2023.11.14 16:04:36  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 71 for OrderModify function
+2026.03.27 03:08:29.917	2023.11.14 16:04:36  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #71 buy 0.05 EURUSD at 1.07752 sl: 1.05752 tp: 1.08752 at price 1.08052
+2026.03.27 03:08:29.899	2023.11.14 15:30:38  Universal_MA_Cross_Shield_2026 EURUSD,M15: open #71 buy 0.10 EURUSD at 1.07752 sl: 1.05752 tp: 1.08752 ok
+2026.03.27 03:08:29.899	2023.11.14 15:30:38  Tester: take profit #70 at 1.07750 (1.07750 / 1.07752)
+2026.03.27 03:08:29.423	2023.11.03 14:44:02  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 20.49999999999885 pips
+2026.03.27 03:08:29.423	2023.11.03 14:44:02  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:29.423	2023.11.03 14:44:02  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:29.423	2023.11.03 14:44:02  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 69 for OrderModify function
+2026.03.27 03:08:29.423	2023.11.03 14:44:02  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #69 buy 0.01 EURUSD at 1.06750 sl: 1.04750 tp: 1.07750 at price 1.07052
+2026.03.27 03:08:29.423	2023.11.03 14:44:02  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 20.49999999999885 pips
+2026.03.27 03:08:29.423	2023.11.03 14:44:02  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:29.423	2023.11.03 14:44:02  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:29.423	2023.11.03 14:44:02  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 68 for OrderModify function
+2026.03.27 03:08:29.423	2023.11.03 14:44:02  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #68 buy 0.03 EURUSD at 1.06750 sl: 1.04750 tp: 1.07750 at price 1.07051
+2026.03.27 03:08:29.423	2023.11.03 14:44:02  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 199.5999999999998 pips
+2026.03.27 03:08:29.423	2023.11.03 14:44:02  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:29.423	2023.11.03 14:44:02  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:29.423	2023.11.03 14:44:02  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 67 for OrderModify function
+2026.03.27 03:08:29.423	2023.11.03 14:44:02  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #67 buy 0.05 EURUSD at 1.06750 sl: 1.04750 tp: 1.07750 at price 1.07050
+2026.03.27 03:08:28.733	2023.10.23 21:41:06  Universal_MA_Cross_Shield_2026 EURUSD,M15: open #67 buy 0.10 EURUSD at 1.06750 sl: 1.04750 tp: 1.07750 ok
+2026.03.27 03:08:28.733	2023.10.23 21:41:06  Tester: stop loss #66 at 1.06750 (1.06748 / 1.06750)
+2026.03.27 03:08:27.433	2023.10.03 03:09:02  Universal_MA_Cross_Shield_2026 EURUSD,M15: open #66 sell 0.10 EURUSD at 1.04750 sl: 1.06750 tp: 1.03750 ok
+2026.03.27 03:08:27.433	2023.10.03 03:09:02  Tester: take profit #65 at 1.04753 (1.04750 / 1.04752)
+2026.03.27 03:08:27.232	2023.09.27 14:18:13  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:08:27.232	2023.09.27 14:18:13  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:27.232	2023.09.27 14:18:13  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:27.232	2023.09.27 14:18:13  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 64 for OrderModify function
+2026.03.27 03:08:27.232	2023.09.27 14:18:13  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #64 sell 0.01 EURUSD at 1.05753 sl: 1.07753 tp: 1.04753 at price 1.05453
+2026.03.27 03:08:27.232	2023.09.27 14:18:08  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:08:27.232	2023.09.27 14:18:08  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:27.232	2023.09.27 14:18:08  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:27.232	2023.09.27 14:18:08  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 63 for OrderModify function
+2026.03.27 03:08:27.232	2023.09.27 14:18:08  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #63 sell 0.03 EURUSD at 1.05753 sl: 1.07753 tp: 1.04753 at price 1.05453
+2026.03.27 03:08:27.232	2023.09.27 14:18:06  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 61.40000000000034 pips
+2026.03.27 03:08:27.232	2023.09.27 14:18:06  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:27.232	2023.09.27 14:18:06  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:27.232	2023.09.27 14:18:06  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 62 for OrderModify function
+2026.03.27 03:08:27.232	2023.09.27 14:18:06  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #62 sell 0.05 EURUSD at 1.05753 sl: 1.07753 tp: 1.04753 at price 1.05452
+2026.03.27 03:08:27.163	2023.09.25 17:57:40  Universal_MA_Cross_Shield_2026 EURUSD,M15: open #62 sell 0.10 EURUSD at 1.05753 sl: 1.07753 tp: 1.04753 ok
+2026.03.27 03:08:27.163	2023.09.25 17:57:40  Tester: take profit #61 at 1.05756 (1.05753 / 1.05755)
+2026.03.27 03:08:26.693	2023.09.14 19:22:13  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:08:26.693	2023.09.14 19:22:13  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:26.693	2023.09.14 19:22:13  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:26.693	2023.09.14 19:22:13  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 60 for OrderModify function
+2026.03.27 03:08:26.693	2023.09.14 19:22:13  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #60 sell 0.01 EURUSD at 1.06756 sl: 1.08756 tp: 1.05756 at price 1.06456
+2026.03.27 03:08:26.693	2023.09.14 19:22:13  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 0.0 pips
+2026.03.27 03:08:26.693	2023.09.14 19:22:13  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:26.693	2023.09.14 19:22:13  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:26.693	2023.09.14 19:22:13  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 59 for OrderModify function
+2026.03.27 03:08:26.693	2023.09.14 19:22:13  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #59 sell 0.03 EURUSD at 1.06756 sl: 1.08756 tp: 1.05756 at price 1.06455
+2026.03.27 03:08:26.693	2023.09.14 19:22:12  Universal_MA_Cross_Shield_2026 EURUSD,M15: MAE de la operacion hasta el cierre parcial: 25.99999999999936 pips
+2026.03.27 03:08:26.693	2023.09.14 19:22:12  Universal_MA_Cross_Shield_2026 EURUSD,M15: Error en OrderModify: 4108
+2026.03.27 03:08:26.693	2023.09.14 19:22:12  Universal_MA_Cross_Shield_2026 EURUSD,M15: OrderModify error 4108
+2026.03.27 03:08:26.693	2023.09.14 19:22:12  Universal_MA_Cross_Shield_2026 EURUSD,M15: unknown ticket 58 for OrderModify function
+2026.03.27 03:08:26.693	2023.09.14 19:22:12  Universal_MA_Cross_Shield_2026 EURUSD,M15: close #58 sell 0.05 EURUSD at 1.06756 sl: 1.08756 tp: 1.05756 at price 1.06456
+2026.03.27 03:08:26.631	2023.09.14 15:30:37  Universal_MA_Cross_Shield_2026 EURUSD,M15: open #58 sell 0.10 EURUSD at 1.06756 sl: 1.08756 tp: 1.05756 ok
